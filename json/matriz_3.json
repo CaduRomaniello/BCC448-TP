@@ -1,0 +1,16 @@
+{
+    "matriz": [
+        ["I", "R", "U", "G", "B", "I", "A", "L", "D", "T"],
+        ["G", "T", "S", "U", "R", "F", "E", "Q", "S", "M"],
+        ["C", "U", "R", "L", "I", "N", "G", "T", "W", "E"],
+        ["I", "B", "E", "I", "S", "E", "B", "O", "L", "R"],
+        ["C", "E", "N", "A", "T", "A", "C", "A", "O", "G"],
+        ["L", "T", "S", "Q", "U", "A", "S", "H", "N", "U"],
+        ["I", "E", "H", "A", "N", "D", "E", "B", "O", "L"],
+        ["S", "N", "S", "O", "F", "T", "B", "O", "L", "H"],
+        ["M", "I", "G", "O", "L", "F", "E", "X", "I", "O"],
+        ["A", "S", "P", "O", "L", "O", "R", "E", "M", "O"]
+    ],
+
+    "palavras": ["BEISEBOL", "POLO", "BOXE", "REMO", "CICLISMO", "RUGBI", "CURLING", "SOFTBOL", "GOLF", "SQUASH", "HANDEBOL", "SURF", "MERGULHO", "TENIS", "NATACAO"]
+}

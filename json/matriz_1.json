@@ -1,0 +1,16 @@
+{
+    "matriz": [
+        ["T", "C", "A", "P", "A", "C", "E", "T", "E", "E"],
+        ["I", "F", "O", "S", "F", "O", "R", "O", "A", "H"],
+        ["C", "R", "N", "R", "I", "D", "T", "A", "V", "A"],
+        ["G", "R", "U", "E", "P", "E", "N", "C", "A", "I"],
+        ["R", "O", "V", "S", "T", "Q", "F", "A", "E", "T"],
+        ["A", "S", "E", "T", "G", "T", "A", "E", "A", "I"],
+        ["N", "S", "M", "I", "G", "A", "C", "E", "R", "E"],
+        ["A", "S", "B", "A", "R", "B", "A", "D", "O", "S"],
+        ["D", "R", "A", "M", "A", "L", "H", "E", "T", "E"],
+        ["A", "E", "S", "P", "E", "L", "H", "O", "C", "E"]
+    ],
+
+    "palavras": ["BARBADOS", "HAITI", "GRANADA", "CAPACETE", "FACA", "ESPELHO", "FOSFORO", "NUVEM", "RAMALHETE", "PENCA", "RESTIA"]
+}

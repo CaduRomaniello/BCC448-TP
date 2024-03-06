@@ -1,0 +1,16 @@
+{
+    "matriz": [
+        ["A", "C", "E", "L", "G", "A", "C", "U", "R", "A"],
+        ["T", "S", "R", "D", "C", "L", "A", "A", "O", "L"],
+        ["R", "U", "O", "A", "A", "R", "R", "R", "R", "C"],
+        ["E", "D", "S", "U", "R", "F", "I", "S", "T", "A"],
+        ["P", "S", "O", "H", "T", "N", "N", "U", "P", "C"],
+        ["O", "P", "O", "H", "A", "I", "H", "N", "S", "H"],
+        ["L", "O", "V", "O", "P", "L", "O", "G", "E", "O"],
+        ["H", "O", "T", "E", "L", "N", "G", "A", "I", "F"],
+        ["O", "E", "E", "I", "E", "B", "O", "N", "E", "R"],
+        ["N", "A", "M", "O", "R", "A", "D", "A", "A", "A"]
+    ],
+
+    "palavras": ["ACELGA", "OVO", "ALCACHOFRA", "REPOLHO", "BONE", "HOTEL", "SUNGA", "SURFISTA", "CARINHO", "CARTA", "NAMORADA"]
+}
