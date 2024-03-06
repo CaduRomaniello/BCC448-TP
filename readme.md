@@ -6,6 +6,6 @@
 -   ✅ - reconehcer o tabuleiro
 -   ✅ - identificar as células
 -   ✅ - recortar as células + resize de 300x300
--   ❌ - reconhecer e identificar os caracteres
--   ❌ - montar uma matriz na memoria
--   ❌ - procurar as palavras O(m \* n^2) onde m é o nro de palavras a serem reconhecidass e n é 100
+-   ✅ - reconhecer e identificar os caracteres
+-   ✅ - montar uma matriz na memoria
+-   ✅ - procurar as palavras O(m \* n^2) onde m é o nro de palavras a serem reconhecidass e n é 100
